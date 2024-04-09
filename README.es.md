@@ -173,7 +173,7 @@ Automáticamente se abrirá el siguiente enlace en su navegador http://localhost
 # Construcción para entornos de prueba
 npm run build:stage
 
-# Construcción para entornos de producción
+# Construcción para entornos de producción 1
 npm run build:prod
 ```
 
